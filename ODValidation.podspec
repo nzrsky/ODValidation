@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'ODValidation'
-  s.version      = '1.0.0'
+  s.version      = '1.0.1'
   s.summary      = 'Set of methods for validation Cocoa objects'
   s.homepage     = 'https://github.com/Rogaven/ODValidation'
   s.license      = { :type => 'MIT', :file => 'LICENSE.txt' }
